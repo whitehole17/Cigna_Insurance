@@ -1,0 +1,126 @@
+﻿ID,Source,Level,Question,Answer,Status
+G01,Gemini,Low,Cigna Healthcare의 공제액(Deductible) 옵션 중 가장 높은 금액은 얼마인가요?,"Cigna Healthcare의 공제액(Deductible) 옵션 중 가장 높은 금액은 $10,000입니다.  
+[출처: customer_guide 2026 p.26]",OK
+G02,Gemini,Low,International Vision & Dental 옵션에서 Silver 플랜 기준 정기 치과 진료(Rou...,"International Vision & Dental 옵션의 Silver 플랜 기준 정기 치과 진료(Routine dental care)의 연간 한도는 문서에 명확히 금액으로 기재되어 있지 않습니다. 다만, Silver 플랜은 정기 치과 진료에 대해 80% 환급을 제공하며, 3개월 이상 보험 가입 후 치료가 필요한 경우에 적용됩니다. 구체적인 연간 한도 금액은 문서에서 확인할 수 없습니다.
+
+[출처: customer_guide 2026 p.45-46]",OK
+G03,Gemini,Low,보험 증권(Certificate of Insurance)에 기재된 Start date의 정의는 무엇인가요?,"보험 증권(Certificate of Insurance)에 기재된 Start date의 정의는 ""이 보험의 보장이 시작되는 날짜""입니다.
+
+[출처: policy_rules 2026 p.24]",OK
+G04,Gemini,Medium,입원 치료 전에 반드시 사전 승인(Prior Approval)을 받아야 하나요? 받지 않으면 어떤 불이익이 ...,"입원(Inpatient) 치료 전에 반드시 사전 승인(Prior Approval)을 받아야 합니다. 사전 승인은 치료가 보장되는지 확인하고, 치료를 제공하는 의료기관이 Cigna Healthcare의 승인된 의료 제공자이며 품질 기준을 충족하는지 확인하는 공식 절차입니다. 이를 위해 의료팀의 의학적 필요성 심사가 이루어지며, 필요한 경우 지급 보증도 발급됩니다.
+
+사전 승인을 받지 않으면, 치료비 보장이 거절될 수 있으므로 반드시 사전 승인을 받아야 합니다.
+
+[출처: policy_rules 2026 p.5, p.24]",OK
+G05,Gemini,Medium,보험 가입 후 취소하고 싶을 때 전액 환불이 가능한 청약 철회 기간(Free Look Period)은 며칠인...,"보험 가입 후 취소할 수 있는 청약 철회 기간(Free Look Period)은 보험 시작일로부터 14일입니다. 이 기간 내에 취소할 경우 전액 환불이 가능합니다.
+
+[출처: policy_rules 2026 p.6]",OK
+G06,Gemini,Medium,거주 국가가 변경되었을 때 Cigna에 언제까지 알려야 하나요?,"거주 국가가 변경되었을 때는 가능한 한 신속하게, 그리고 반드시 30일 이내에 Cigna에 알려야 합니다.
+
+[출처: policy_rules 2026 p.13]",OK
+G07,Gemini,High,"Silver 플랜에서 공제액(Deductible) $500, 공동부담률(Co-insurance) 20% 선택...","Silver 플랜에서 공제액(Deductible) $500, 공동부담률(Co-insurance) 20%를 선택한 경우 병원비 $1,000에 대한 계산은 다음과 같습니다.
+
+1. 먼저 공제액(Deductible) $500를 본인이 부담합니다.
+2. 남은 금액 $1,000 - $500 = $500에 대해 공동부담률(Co-insurance) 20%가 적용됩니다.
+3. 공동부담률 20%는 $500의 20%인 $100을 본인이 부담합니다.
+4. 따라서 본인이 부담하는 총 금액은 $500(공제액) + $100(공동부담률) = $600입니다.
+5. 보험사가 지급하는 금액은 $1,000 - $600 = $400입니다.
+
+즉, 병원비 $1,000 중 보험사에서 환급받는 금액은 $400입니다.
+
+[출처: customer_guide 2026 p.49]",OK
+G08,Gemini,High,태국에서 오토바이 사고가 발생했을 때 위험 활동(Hazardous Activities) 관련 보장 제외 조항...,"태국에서 오토바이 사고가 발생했을 때 위험 활동(Hazardous Activities) 관련 보장 제외 조항이 적용되는지에 대해 문서 내용을 확인한 결과, 문서에는 오토바이 사고에 대한 구체적인 언급이 없습니다.
+
+다만, [2] policy_rules 2026 p.21에 따르면, 로프, 하네스, 카라비너, 크램폰, 보호용 등반 장비 등 특수 장비가 필요하지 않은 정의된 스키장 내 코스에서의 활동은 위험 활동으로 간주되지 않으며, 이로 인한 부상에 대해서는 입원(Inpatient), 당일 입원(daypatient), 외래(Outpatient) 혜택에 따라 의료적으로 필요한 치료가 보장된다고 명시되어 있습니다.
+
+오토바이 사고는 특수 장비 사용과는 별개로 위험 활동에 해당할 가능성이 높으나, 문서에서 오토바이 사고를 위험 활동으로 명시하거나 보장 제외 조항에 대해 구체적으로 언급하지는 않았습니다.
+
+따라서, 태국에서 오토바이 사고가 위험 활동 관련 보장 제외 조항에 적용되는지 여부는 문서에서 확인할 수 없습니다.
+
+[출처: policy_rules 2026 p.21]",OK
+G09,Gemini,High,현재 임신 중이고 6개월 뒤 태어날 아이를 추가하고 싶습니다. 의료 심사(Full Medical Underw...,"의료 심사(Full Medical Underwriting) 없이 신생아를 추가할 수 있는 신청 기한은 출생일로부터 30일 이내입니다.  
+30일이 경과하면 의료 심사가 적용됩니다.  
+
+[출처: customer_guide 2026 p.25]",OK
+G10,Gemini,High,"심리상담(Mental Health Support) 서비스는 입원 중에만 가능한가요, 아니면 외래(Outpat...","심리상담(Mental Health Support) 서비스는 입원(Inpatient)뿐만 아니라 외래(Outpatient)로도 이용할 수 있습니다. 다만, 이 서비스는 선택적 International Health and Wellbeing 모듈을 구매한 경우에 제공됩니다.
+
+[출처: customer_guide 2026 p.38]",OK
+G11,Gemini,High,한국 거주자로서 보험금 청구 시 앱으로 청구할 수 있나요? 싱가포르 지점 연락처도 알려주세요.,"한국 거주자로서 보험금 청구 시 앱을 통한 청구 가능 여부에 대해서는 문서에서 확인할 수 없습니다.
+
+싱가포르 지점 연락처는 다음과 같습니다.  
+전화: 800 186 5047 (무료)  
+이메일: cignaglobal_customer.care@cigna.com
+
+추가 문의가 있으시면 24시간 365일 고객센터로 연락하실 수 있습니다.  
+[출처: customer_guide 2026 p.1, p.4]",OK
+G12,Gemini,High,2022년 Customer Guide와 비교했을 때 최신 버전에서 달라진 디지털 서비스나 주요 변경 사항은 ...,"문서에서 2022년 Customer Guide와 비교한 최신 버전의 디지털 서비스나 주요 변경 사항에 대한 내용은 확인할 수 없습니다.
+
+[출처: customer_guide 2026 p.0, p.6]",OK
+P01,Perplexity,Low,Cigna Global Silver 플랜의 연간 공제액(Deductible)은 얼마인가요?,"Cigna Global Silver 플랜의 연간 공제액(Deductible)은 $0, $150, $500, $1,000, $1,500 중에서 선택할 수 있습니다.  
+[출처: customer_guide 2026 p.35]",OK
+P02,Perplexity,Low,Gold 플랜에서 외래 정신건강 방문(Outpatient mental health visit) 당 정액 본인...,"문서에서 Gold 플랜의 외래 정신건강 방문(Outpatient mental health visit) 당 정액 본인부담(Copay)에 대한 정보는 확인할 수 없습니다.
+
+[출처: customer_guide 2026 p.21]",OK
+P03,Perplexity,Low,Platinum 플랜의 최대 의료비 한도(Annual Maximum Benefit)는 얼마인가요?,"Platinum 플랜의 최대 의료비 한도(Annual Maximum Benefit)는 $2,000,000입니다.  
+이는 International Medical Insurance의 연간 전체 보장 한도로, 피보험자 1인당 보장 기간 내 적용됩니다.  
+[출처: customer_guide 2026 p.16]",OK
+P04,Perplexity,Medium,심리상담 예약 시 사전 승인(Prior Approval)이 필요한가요?,"심리상담 예약 시 사전 승인(Prior Approval)이 필요한지에 대한 내용은 문서에서 확인할 수 없습니다.
+
+[출처: customer_guide 2026 p.0, policy_rules 2026 p.5]",OK
+P05,Perplexity,Medium,한국에서 Cigna 네트워크 내(In-network) 병원에서 심리상담을 받을 수 있나요?,"문서에서 확인할 수 있는 내용에 따르면, Cigna 네트워크 내(In-network) 병원에서 제공하는 서비스에는 정신건강 케어(Mental Health Care) 및 심리치료(Psychotherapy)가 포함됩니다. 그러나 한국 내에서 Cigna 네트워크 내 병원이 존재하는지, 그리고 그 병원에서 심리상담이 가능한지에 대한 구체적인 정보는 문서에 명시되어 있지 않습니다.
+
+따라서, 한국에서 Cigna 네트워크 내 병원에서 심리상담을 받을 수 있는지 여부는 문서에서 확인할 수 없습니다.
+
+[출처: benefits_summary 2025-02 p.5, customer_guide 2026 p.8, policy_rules 2026 p.7]",OK
+P06,Perplexity,Medium,원격의료(Telehealth) 상담도 Cigna에서 보장되나요?,"네, Cigna Global 국제 건강보험에서는 원격의료(Global Telehealth) 상담을 보장합니다. Global Telehealth 서비스는 Cigna Wellbeing® 앱을 통해 또는 고객 서비스 팀의 추천을 받아 비응급(non-emergency) 건강 문제에 대해 무제한으로 영상 및 전화 상담을 받을 수 있습니다. 다만, 원격의료 상담 후 처방된 치료나 약품은 보장 조건에 따라 다를 수 있습니다.
+
+[출처: customer_guide 2026 p.23, p.51]",OK
+P07,Perplexity,Medium,심리상담 50분 세션 청구 시 어떤 서류가 필요한가요?,"심리상담 50분 세션 청구 시, 추가 정보가 필요할 수 있으며, 이는 의료 보고서, 치료 계획, 의학적 검사 또는 특정 상태와 관련된 기타 관련 정보가 포함될 수 있습니다. 또한, 의료 제공자나 치료 기관에서 추가 정보를 제공할 수 있도록 접근 권한을 부여해야 할 수도 있습니다. 구체적으로는 보험사에서 요청하는 서류에 따라 달라질 수 있으니, 사전에 고객센터에 문의하여 필요한 서류를 확인하는 것이 좋습니다.
+
+[출처: policy_rules 2026 p.6]",OK
+P08,Perplexity,Medium,보험금 청구(Claim) 제출 기한은 며칠 이내인가요?,"보험금 청구(Claim) 제출 기한은 치료일로부터 12개월 이내입니다. 12개월이 경과하면 보험금 지급 또는 환급 대상이 되지 않습니다.
+
+[출처: customer_guide 2026 p.12]",OK
+P09,Perplexity,High,연 10회 이상 심리치료(Psychotherapy)를 받을 경우 추가 승인이 필요한가요?,"문서에서 연 10회 이상 심리치료(Psychotherapy) 시 추가 승인 필요 여부에 대한 내용은 확인할 수 없습니다.
+
+[출처: customer_guide 2026 p.0, p.21]",OK
+P10,Perplexity,High,Silver 플랜에서 한국 네트워크 외(Out-of-network) 상담소 이용 시 보장 비율은 얼마인가요?,"Silver 플랜에서 한국 네트워크 외(Out-of-network) 상담소 이용 시 보장 비율에 대한 구체적인 내용은 문서에서 확인할 수 없습니다. 다만, 미국 내 네트워크 외 이용 시에만 페널티가 없다는 내용이 있으며, 한국 네트워크 외 이용에 대한 별도 언급은 없습니다.
+
+[출처: customer_guide 2026 p.53]",OK
+P11,Perplexity,High,정신과 약 처방도 외래 정신건강 케어(Outpatient Mental Health Care)에 포함되어 보장...,"문서에서 정신과 약 처방이 외래 정신건강 케어(Outpatient Mental Health Care)에 포함되어 보장된다는 내용은 확인할 수 없습니다.
+
+[출처: customer_guide 2026 p.21, p.34, p.40]",OK
+P12,Perplexity,High,가족 중 한 명만 의료비를 사용해도 다른 가족의 공제액(Deductible)이 공유되나요?,"가족 중 한 명이 의료비를 사용하더라도 각 가족 구성원의 공제액(Deductible)은 별도로 적용됩니다. 즉, 한 명이 공제액을 충족해도 다른 가족 구성원의 공제액이 공유되거나 면제되지 않습니다.
+
+[출처: customer_guide 2026 p.26, policy_rules 2026 p.10]",OK
+S01,Plan,High,Cigna Global International Outpatient 플랜에서 정신건강 케어(Mental He...,"문서에서 정신건강 케어(Mental Health Care)의 연간 보장 횟수에 관한 정보는 확인할 수 없습니다.
+
+[출처: benefits_summary 2025-02 p.3]",OK
+S02,Plan,Medium,보험금 청구 시 공제액(Deductible)과 공동부담률(Co-insurance)의 차이는 무엇인가요?,"공제액(Deductible)은 보험금 청구 시 보험사가 보상을 시작하기 전에 가입자가 먼저 부담해야 하는 금액입니다. 즉, 공제액만큼은 가입자가 직접 지불해야 하며, 이 금액을 초과하는 비용에 대해 보험사가 보상을 시작합니다.
+
+반면, 공동부담률(Co-insurance)은 공제액을 지불한 후 남은 의료비용 중 가입자가 일정 비율을 부담하는 것을 의미합니다. 예를 들어, 공제액을 낸 후 남은 비용에 대해 20%를 가입자가 부담하고 80%를 보험사가 부담하는 식입니다.
+
+요약하면, 공제액은 보험금 지급 전 가입자가 먼저 내야 하는 고정 금액이고, 공동부담률은 공제액 이후 발생하는 비용에 대해 가입자가 부담하는 비율입니다.
+
+[출처: customer_guide 2026 p.26, p.48]",OK
+S03,Plan,Medium,심리상담을 받기 전에 Cigna의 사전 승인(Prior Approval)이 반드시 필요한가요?,"심리상담(심리치료(Psychotherapy))을 받기 전에 Cigna의 사전 승인(Prior Approval)이 반드시 필요한지에 대해서는 문서에서 확인할 수 없습니다.
+
+[출처: customer_guide 2026 p.0, policy_rules 2026 p.24]",OK
+S04,Plan,High,상담 후 처방된 약(Prescribed drugs) 비용도 Cigna 플랜에서 청구할 수 있나요?,"상담 후 처방된 약(Prescribed drugs) 비용 청구 관련하여, Cigna Healthcare 네트워크 내(In-network) 약국에서 처방약을 수령하는 경우에는 별도의 본인 청구 없이 비용이 직접 청구됩니다. 반면, 네트워크 외(Out-of-network) 약국에서 약을 수령하는 경우에는 약값을 먼저 본인이 지불한 후, 비용을 청구하여 환급받아야 합니다. 단, 이 내용은 현재 미국 내에서만 적용됩니다.
+
+따라서, 네트워크 내 약국 이용 시에는 별도의 청구 절차 없이 비용 처리가 되며, 네트워크 외 약국 이용 시에는 본인 선지불 후 청구가 필요합니다.
+
+[출처: customer_guide 2026 p.11, policy_rules 2026 p.7]",OK
+S05,Plan,Medium,How much is the benefit limit for Mental Health Care in the ...,"Cigna Outpatient 플랜의 정신건강 케어(Mental Health Care) 혜택 한도는 선택한 플랜에 따라 다르며, Silver, Gold, Platinum 플랜 모두 각각 $5,000까지입니다. 
+
+또한, 입원(Inpatient) 및 주간 환자(daypatient) 치료에 대해서는 사전 승인(Prior Approval)이 필요하지만, 외래(Outpatient) 치료에 대해서는 사전 승인이 필요하지 않습니다.
+
+[출처: customer_guide 2026 p.21]",OK
+S06,Plan,High,법적 문제 때문에 받는 심리 검사(Psychometric testing)도 Cigna 플랜에서 보장되나요?,"문서에서 확인할 수 있는 내용에 따르면, Cigna 플랜은 정신건강 케어(Mental Health Care) 관련 보장을 제공하지만, 심리 검사(Psychometric testing)에 대한 구체적인 보장 여부는 명시되어 있지 않습니다. 특히 법적 문제 때문에 받는 심리 검사에 대한 별도의 언급이나 보장 내용은 문서에 포함되어 있지 않습니다.
+
+따라서, 법적 문제 때문에 받는 심리 검사(Psychometric testing)의 보장 여부는 문서에서 확인할 수 없습니다.
+
+[출처: customer_guide 2026 p.11, p.30]",OK
+S07,Plan,High,Cigna는 국제 보험이므로 모든 심리상담이 무제한으로 보장되나요?,"Cigna 국제 보험의 심리상담(심리치료, Psychotherapy)은 무제한으로 보장되지 않습니다. 문서에 따르면, 정신건강 케어(Mental Health Care) 지원 프로그램으로서, 각 보장 기간(period of cover)마다 상태별로 최대 20회의 대면 상담 세션(face to face counselling sessions)이 제공됩니다. 즉, 특정 질환별로 20회까지만 보장되며, 무제한은 아닙니다.
+
+[출처: customer_guide 2026 p.40]",OK
